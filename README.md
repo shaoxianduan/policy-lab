@@ -1,6 +1,8 @@
 # Cloud Governance Gone Rogue – Azure Policy Lab
 
+## 🎥 Video Demo
 
+- [🔗 Watch Demo Video](https://youtu.be/vJmdlkQm9d8)  
 ---
 
 ## 🎯 Lab Objectives
@@ -94,10 +96,7 @@
 	•	✅ Use Built-in Policies When Possible: Azure provides many built-in policies that can be customized, reducing the need to write JSON from scratch.
 	•	✅ Testing Is Critical: Each policy must be tested with real deployment scenarios to ensure correct enforcement and avoid false positives/negatives.
 
-## 🎥 Video Demo
 
-- [🔗 Watch Demo Video](https://youtu.be/vJmdlkQm9d8)  
-(Replace this link with the actual YouTube or OneDrive video link)
 
 ---
 
